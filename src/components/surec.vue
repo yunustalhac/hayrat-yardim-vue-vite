@@ -126,7 +126,7 @@
     <div class="w-full flex mt-20 items-center justify-center tablet:p-0">
       <div
           class="flex relative  rounded-[30px] items-center text-center p-5  w-[70%] tablet:w-[50%] h-[150px] bg-[#7B98CE]">
-        <img class="z-[-10] absolute w-[100px] left-[-70px] bottom-[50px]" src="@/img/şimşek.svg">
+        <img class="z-[-10] absolute w-[100px] left-[-70px] bottom-[50px]" src="../img/simsek.svg">
         <img class="z-[-10] absolute w-[100px] right-[-60px] top-[50px]" src="@/img/yaprak.svg">
         <p class="w-full text-3xl text-white">
           SEN DE DESTEK OL,

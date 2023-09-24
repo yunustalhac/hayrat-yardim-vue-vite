@@ -21,10 +21,10 @@
       </div>
 
       <div class="relative flex justify-center mt-20">
-        <img class="absolute z-[-1] opacity-[0.7] w-[110px] left-[50px] top-[-50px]" src="@/img/yıldırım.svg" alt="">
+        <img class="absolute z-[-1] opacity-[0.7] w-[110px] left-[50px] top-[-50px]" src="@/img/simsek.svg" alt="">
         <img class="absolute z-[-1] opacity-[0.7] w-[110px] right-[70px] bottom-[-50px]" src="@/img/yaprak.svg" alt="">
         <div class="flex absolute top-[40%] bg-[rgba(255,255,255,0.24)] hover:bg-[rgba(255,255,255,0.48)] h-[70px] items-center justify-center rounded-[100%] w-[70px] hover:border-2  hover:border-[#80BC00]">
-          <img src="@/img/başla.svg" alt="">
+          <img src="@/img/basla.svg" alt="">
         </div>
         <img class="w-[70%] rounded-2xl" src="@/img/resim.png" alt="">
       </div>
