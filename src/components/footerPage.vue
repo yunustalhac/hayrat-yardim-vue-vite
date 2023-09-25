@@ -3,7 +3,7 @@
     <div class="max-w-[940px] ml-auto mr-auto laptop:pl-20 laptop:pr-20">
       <div class="flex pb-20 pt-20 flex-col ml-auto mr-auto tablet:flex-row laptop:flex-row">
         <div class="flex flex-col tablet:flex-row laptop:flex-row laptop:items-center tablet:items-center ml-auto mr-auto">
-          <div class="tablet:pr-10 laptop:pr-10 ml-auto mr-auto tablet:mr-0 tablet:ml-0 laptop:mr-0 laptop:ml-0 tablet:border-r-2 laptop:border-r-2">
+          <div class="tablet:h-[150px] flex items-center tablet:pr-10 laptop:pr-10 ml-auto mr-auto tablet:mr-0 tablet:ml-0 laptop:mr-0 laptop:ml-0 tablet:border-r-2 laptop:border-r-2">
             <img src="@/img/footer-yardım.svg">
           </div>
           <div class="p-0 tablet:pr-10 laptop:pr-10 mt-10 laptop:mt-0 tablet:mt-0">
