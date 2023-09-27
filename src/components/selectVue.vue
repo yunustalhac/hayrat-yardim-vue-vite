@@ -5,11 +5,11 @@
       <div
           class="gap-[150px] mt-[100px] flex flex-col tablet:flex-row tablet:ml-auto tablet:mr-auto tablet:pl-10 tablet:pr-10  items-center  ml-auto mr-auto">
         <div
-            class="relative w-[50%] h-[300px] border-2 border-[#FDDF4D] flex flex-col justify-center items-center rounded-3xl">
+            class="relative w-[50%] h-[300px] border-2 border-[#FDDF4D] flex flex-col justify-center items-center rounded-3xl ">
           <img class="absolute top-[-92px]" src="@/img/yıldırım.svg">
           <h5 class="text-2xl text-[#80BC00] mb-10 mt-[25px]">YURT İÇİ <br> PROJELER</h5>
-          <select class="border-b-2 border-b-[#80BC00] w-[80%] mb-10 select-all-[#80BC00]">
-            <option class="text-[#737984]">Projeni seç</option>
+          <select class="border-b-2 border-b-[#80BC00] w-[80%] mb-10">
+            <option class="block text-red-400">Projeni seç</option>
             <option>Hayvancılık Projesi</option>
             <option>Fırın Projesi</option>
             <option>Şanlıurfa Aile Konaklama Merkezi</option>
