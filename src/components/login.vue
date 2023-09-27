@@ -1,6 +1,6 @@
 <template>
   <section>
-    <img class="absolute logo" src="@/img/title-icon.png">
+    <img class="absolute logo h-[100vh] " src="@/img/logo2.png">
     <div class="h-full">
       <div class="absolute h-[100vh]  w-full top-0 left-0">
         <img class=" h-full w-full" src="@/img/arkaplan.png">

@@ -12,9 +12,9 @@
         </div>
 
         <div class="flex text-center tablet:text-start laptop:text-start  flex-col text-white tablet:mr-0 ml-auto mr-auto tablet:ml-auto laptop:mr-0 laptop:ml-auto gap-3 mt-24 laptop:mt-0r tablet:mt-0 laptop:pl-20">
-          <a href="#" class="link-item">Ana Sayfa</a>
-          <a href="#" class="link-item"> Şühedanın İzinde 500 Su Kuyusu</a>
-          <a href="#" class="link-item">İyilik Kapısı</a>
+          <a href="https://hayratyardim.org/" class="link-item">Ana Sayfa</a>
+          <a href="https://hayratyardim.org/bagis/togo-el-pompali" class="link-item"> Şühedanın İzinde 500 Su Kuyusu</a>
+          <a href="https://hayratyardim.org/bagis/iyilik-kapisi" class="link-item">İyilik Kapısı</a>
           <a href="#" class="link-item">İyilik Enerjinle Yayılsın</a>
         </div>
       </div>
