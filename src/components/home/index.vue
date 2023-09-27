@@ -6,8 +6,11 @@
         <login class="pl-10 pr-10 flex items-center"/>
       </div>
     </div>
-    <div class="tablet:p-20 p-5">
-      <phagraf/>
+    <div>
+      <div class="tablet:p-20 p-5 relative">
+        <phagraf/>
+      </div>
+
     </div>
 
     <div>
@@ -38,6 +41,7 @@ import SelectVue from "@/components/selectVue.vue";
 import List from "@/components/list.vue";
 import Surec from "@/components/surec.vue";
 import FooterPage from "@/components/footerPage.vue";
+import VideoFill from "@/components/video-fill.vue";
 </script>
 
 <style  scoped>
