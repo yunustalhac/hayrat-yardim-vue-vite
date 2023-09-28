@@ -13,7 +13,7 @@
       </div>
       <div class="modal-content flex flex-col gap-5">
         <small class="font-bold desktop:text-xl tablet:text-xl">Şühedanın İzinde 500 Su Kuyusu Projesi</small>
-        <video controls loop src="@/img/video.mp4" class="w-[100%]"></video>
+        <video controls loop src="../img/video.mp4" class="w-[100%]"></video>
       </div>
     </div>
   </div>
