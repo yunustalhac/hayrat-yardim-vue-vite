@@ -1,6 +1,6 @@
 <template>
   <div class="flex flex-col gap-10">
-    <div class="flex flex-col gap-10 text-[80%] p-5 tablet:p-0 tablet:text-[100%]">
+    <div class="flex flex-col gap-10 text-[80%] p-5 tablet:p-0 tablet:text-[100%] text-center">
       <p>
         Yaklaşık bir asırdır meydana gelen savaş, doğal afet, çatışma, iklim değişikliği ve bunlara bağlı
         olarak sosyo-ekonomik
