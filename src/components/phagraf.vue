@@ -34,6 +34,7 @@
       </div>
     </div>
   </div>
+
 </template>
 
 <script setup>
@@ -53,6 +54,6 @@ const openWindowPage = () => {
 }
 </script>
 
-<style lang="scss" scoped>
+<style scoped>
 
 </style>

@@ -55,4 +55,5 @@ const closeModal = () => {
   max-height: 70vh; /* Modal içeriğinin en fazla bu kadar yüksek olmasını sağlar */
   overflow-y: auto; /* İçeriğin taşması durumunda kaydırma çubuğunu gösterir */
 }
+
 </style>
